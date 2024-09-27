@@ -107,3 +107,37 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.masthead__menu {
+  display: flex;
+  justify-content: space-around; /* 使菜单项均匀分布 */
+  align-items: center;
+  background-color: #f8f8f8; /* 导航栏背景颜色，按需调整 */
+  padding: 10px 0; /* 导航栏上下内边距 */
+}
+
+.masthead__menu-item {
+  list-style: none; /* 去掉默认列表样式 */
+}
+
+.masthead__menu-item a {
+  text-decoration: none; /* 去掉链接下划线 */
+  color: #333; /* 链接文本颜色，按需调整 */
+  padding: 10px 20px; /* 增加链接的内边距，调节点击区域 */
+  font-weight: bold; /* 使链接文字加粗 */
+  font-size: 16px; /* 设置字体大小，按需调整 */
+}
+
+.masthead__menu-item a:hover {
+  color: #007bff; /* 当鼠标悬停时，链接颜色变化 */
+}
+
+.visible-links {
+  display: flex;
+  width: 100%;
+  justify-content: space-around; /* 使导航项均匀分布 */
+}
+
+.hidden-links {
+  display: none; /* 隐藏菜单，按需修改 */
+}
