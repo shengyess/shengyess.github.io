@@ -27,7 +27,7 @@ Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Mate
 <h1>Research Profile</h1>
 
 <div class='profile-summary'>
-    <p>Dr. Ye's research focuses on the development and application of multi-scale modeling methods and machine learning techniques to simulate charge kinetics in complex systems. His work covers a broad spectrum of applications in physics and chemistry, including biochemistry, photochemistry, molecular electronics, and photonics. Over the past five years, he has published 17 papers in prestigious journals such as PNAS, Natl Sci Rev, JACS, JACS Au, JPCL, and Energy & Environmental Science. Additionally, his research has been featured twice as an "Editor's Choice" in Science (Science, 2020, 370, 1178; Science, 2020, 368, 727).</p>
+    <p>Dr. Ye's research centers on the development and application of multi-scale modeling methods and machine learning techniques to simulate charge kinetics in complex systems. He has systematically developed efficient and accurate methods for simulating protein infrared and electronic spectra, as well as inverse-desgin proteins based on spectrum-structure-activity relationships. Over the past five years, he has published 17 papers in prestigious journals such as PNAS, Natl Sci Rev, JACS, JACS Au, JPCL, and Energy & Environmental Science. Additionally, his research has been featured twice as an "Editor's Choice" in Science (Science, 2020, 370, 1178; Science, 2020, 368, 727).</p>
 </div>
 
 <div class='paper-box'>
