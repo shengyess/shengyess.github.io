@@ -26,6 +26,25 @@ Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Mate
 # Research Profile
 <h1>Research Profile</h1>
 
+<div class='profile-summary'>
+    <p>Dr. Ye's research focuses on the development and application of multi-scale modeling methods and machine learning techniques to simulate charge kinetics in complex systems. His work covers a broad spectrum of applications in physics and chemistry, including biochemistry, photochemistry, molecular electronics, and photonics. Over the past five years, he has published 17 papers in prestigious journals such as PNAS, Natl Sci Rev, JACS, JACS Au, JPCL, and Energy & Environmental Science. Additionally, his research has been featured twice as an "Editor's Choice" in Science (Science, 2020, 370, 1178; Science, 2020, 368, 727).</p>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div class="badge">PNAS. 2024</div>
+        <img src='images/55.png' alt="sym" width="100%">
+    </div>
+    <div class='paper-box-text'>
+        <!-- Unraveling dynamic protein structures from two-dimensional infrared (2DIR) spectral signals presents a formidable task. By 
+utilizing machine learning, we have correlated the intricate 2DIR 
+spectroscopic features with the protein dynamic conformations, 
+thereby tracing changes of secondary structure content along protein folding trajectories. This pretrained model facilitates 
+universal transfer learning across diverse protein folding trajectories, offering valuable insights into the dynamic behavior of proteins and their biological function. -->
+        <p>His recent publication in PNAS explores...</p>
+    </div>
+</div>
+
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div class="badge">J. Am. Chem. Soc. 2024</div>
@@ -33,7 +52,7 @@ Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Mate
     </div>
     <div class='paper-box-text'>
         <!-- 你可以在这里加入对应论文的文字描述 -->
-        <p>Dr. Ye's research focuses on the development and application of multi-scale modeling methods and machine learning techniques...</p>
+        <p>We present a machine learning (ML)-based protocol designed to efficiently simulate the amide II IR spectra of various proteins with an accuracy comparable to experimental results. This protocol stands out as a cost-effective and efficient alternative for studying protein dynamics, including the identification of secondary structures and monitoring the dynamics of protein hydrogen bonding under different pH conditions and during protein folding process. </p>
     </div>
 </div>
 
@@ -60,10 +79,6 @@ Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Mate
 </div>
 
 <!-- 继续添加其他论文的条目 -->
-
-<div class='profile-summary'>
-    <p>Dr. Ye's research focuses on the development and application of multi-scale modeling methods and machine learning techniques to simulate charge kinetics in complex systems. His work covers a broad spectrum of applications in physics and chemistry, including biochemistry, photochemistry, molecular electronics, and photonics. Over the past five years, he has published 17 papers in prestigious journals such as PNAS, Natl Sci Rev, JACS, JACS Au, JPCL, and Energy & Environmental Science. Additionally, his research has been featured twice as an "Editor's Choice" in Science (Science, 2020, 370, 1178; Science, 2020, 368, 727).</p>
-</div>
 
 <span class='anchor' id='-lwzl'></span>
 
