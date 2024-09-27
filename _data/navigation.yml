@@ -1,19 +1,19 @@
 # main links links
-#main:
-#  - title: "Biography"
+main:
+  - title: "Biography"
 #    url: "/zh-cn/#about-me"
 
-#  - title: "Research Profile"
+  - title: "Research Profile"
 #    url: "/zh-cn/#-xl"
 
-#  - title: "Publications"
- #   url: "/zh-cn/#-lwzl"
+  - title: "Publications"
+#    url: "/zh-cn/#-lwzl"
 
-#  - title: "Honor"
- #   url: "/zh-cn/#-ryjx"
+  - title: "Honor"
+#    url: "/zh-cn/#-ryjx"
 
-#  - title: "Academic Conference"
-#    url: "/zh-cn/#-xshy"
+  - title: "Academic Conference"
+ #   url: "/zh-cn/#-xshy"
 
 #  - title: "工作实习"
  #   url: "/zh-cn/#-gzsx"
