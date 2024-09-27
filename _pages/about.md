@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# Biography
+
 Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Materials Science and Engineering from Anhui University of Science and Technology in 2016 and earned his Ph.D. in Theoretical Chemistry under the supervision of Prof. Jun Jiang at the University of Science and Technology of China in 2021. Since then, he has served as a professor at the School of Artificial Intelligence at Anhui University, focusing on Theoretical, Physical, and Materials Chemistry, integrating Machine Learning into his research.
   
 <span class='anchor' id='-xl'></span>
