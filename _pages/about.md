@@ -72,9 +72,9 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 <span class='anchor' id='-xshy'></span>
 
 # Academic Conference
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+- Sheng joined in the first symposium on theoretical and computational catalysis and gave a short talk, at Hefei. 
+- Sheng joined in the first symposium on theoretical and computational catalysis and gave a short talk, at Hefei. 
+- Sheng joined in the first symposium on theoretical and computational catalysis and gave a short talk, at Hefei. 
 
 <span class='anchor' id='-gzsx'></span>
 
