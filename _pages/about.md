@@ -44,7 +44,7 @@ Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Mate
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div class="badge">JACS 2024; JACS, 2020; PNAS, 2021;</div>
-        <img src='images/1.png' alt="sym" width="100%">
+        <img src='images/6.png' alt="sym" width="100%">
     </div>
     <div class='paper-box-text'>
         <!-- 你可以在这里加入对应论文的文字描述 -->
