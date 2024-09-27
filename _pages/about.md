@@ -36,45 +36,30 @@ Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Mate
         <img src='images/55.png' alt="sym" width="100%">
     </div>
     <div class='paper-box-text'>
-        <!-- Unraveling dynamic protein structures from two-dimensional infrared (2DIR) spectral signals presents a formidable task. By 
-utilizing machine learning, we have correlated the intricate 2DIR 
-spectroscopic features with the protein dynamic conformations, 
-thereby tracing changes of secondary structure content along protein folding trajectories. This pretrained model facilitates 
-universal transfer learning across diverse protein folding trajectories, offering valuable insights into the dynamic behavior of proteins and their biological function. -->
-        <p>His recent publication in PNAS explores...</p>
+         <!-- 你可以在这里加入对应论文的文字描述 -->
+        <p> Unraveling dynamic protein structures from two-dimensional infrared (2DIR) spectral signals presents a formidable task. By utilizing machine learning, we have correlated the intricate 2DIR spectroscopic features with the protein dynamic conformations, thereby tracing changes of secondary structure content along protein folding trajectories. This pretrained model facilitates universal transfer learning across diverse protein folding trajectories, offering valuable insights into the dynamic behavior of proteins and their biological function.</p>
     </div>
 </div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
-        <div class="badge">J. Am. Chem. Soc. 2024</div>
-        <img src='images/11.png' alt="sym" width="100%">
+        <div class="badge">JACS 2024; JACS, 2020; PNAS, 2021;</div>
+        <img src='images/1.png' alt="sym" width="100%">
     </div>
     <div class='paper-box-text'>
         <!-- 你可以在这里加入对应论文的文字描述 -->
-        <p>We present a machine learning (ML)-based protocol designed to efficiently simulate the amide II IR spectra of various proteins with an accuracy comparable to experimental results. This protocol stands out as a cost-effective and efficient alternative for studying protein dynamics, including the identification of secondary structures and monitoring the dynamics of protein hydrogen bonding under different pH conditions and during protein folding process. </p>
+        <p>By combining machine learning techniques with quantum chemical theoretical calculations, we have developed a divide-and-conquer artificial intelligence simulation method for protein spectroscopy, along with the corresponding simulation software, MLPS (http://dcaiku.com:12880/platform/first). This tool enables efficient and accurate simulation of the amide I and II bands in protein infrared spectra, precisely distinguishing protein secondary structures. It can also be used to investigate the effects of temperature and solution pH on protein structures and to track the protein folding process in real-time. </p>
     </div>
 </div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
-        <div class="badge">PNAS. 2024</div>
-        <img src='images/22.png' alt="sym" width="100%">
+        <div class="badge">JACS au, 2021; PNAS. 2019</div>
+        <img src='images/2.png' alt="sym" width="100%">
     </div>
     <div class='paper-box-text'>
         <!-- 你可以在这里加入对应论文的文字描述 -->
-        <p>His recent publication in PNAS explores...</p>
-    </div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div class="badge">J. Am. Chem. Soc. 2021</div>
-        <img src='images/33.png' alt="sym" width="100%">
-    </div>
-    <div class='paper-box-text'>
-        <!-- 你可以在这里加入对应论文的文字描述 -->
-        <p>This work demonstrates...</p>
+        <p>We have integrated the Frenkel exciton model to develop a divide-and-conquer machine learning prediction strategy for protein CD and UV spectra. This method improves computational speed by at least three orders of magnitude compared to traditional quantum chemical calculations. Furthermore, the model demonstrates excellent transferability, making it applicable to simulating photoelectric responses under various external conditions (such as temperature, pressure, and electric fields). It can also be employed to predict the circular dichroism (CD) spectra of dynamic conformations during the Trp-cage protein folding process, enabling real-time monitoring of conformational changes in protein folding dynamics.</p>
     </div>
 </div>
 
