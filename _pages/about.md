@@ -17,20 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
-
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Materials Science and Engineering from Anhui University of Science and Technology in 2016 and earned his Ph.D. in Theoretical Chemistry under the supervision of Prof. Jun Jiang at the University of Science and Technology of China in 2021. Since then, he has served as a professor at the School of Artificial Intelligence at Anhui University, focusing on Theoretical, Physical, and Materials Chemistry, integrating Machine Learning into his research.
   
-
-
 <span class='anchor' id='-xl'></span>
 
 # Research Profile
