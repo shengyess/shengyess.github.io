@@ -24,20 +24,46 @@ Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Mate
 <span class='anchor' id='-xl'></span>
 
 # Research Profile
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Am. Chem. Soc. 2024</div><img src='images/11.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS. 2024</div><img src='images/22.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Am. Chem. Soc. 2021</div><img src='images/33.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Am. Chem. Soc. 2024</div><img src='images/44.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Am. Chem. Soc. 2024</div><img src='images/55.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Am. Chem. Soc. 2024</div><img src='images/66.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-Dr. Ye's research focuses on the development and application of multi-scale modeling methods and machine learning techniques to simulate charge kinetics in complex systems. His work covers a broad spectrum of applications in physics and chemistry, including biochemistry, photochemistry, molecular electronics, and photonics. Over the past five years, he has published 17 papers in prestigious journals such as PNAS, Natl Sci Rev, JACS, JACS Au, JPCL, and Energy & Environmental Science. Additionally, his research has been featured twice as an "Editor's Choice" in Science (Science, 2020, 370, 1178; Science, 2020, 368, 727).
+<h1>Research Profile</h1>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div class="badge">J. Am. Chem. Soc. 2024</div>
+        <img src='images/11.png' alt="sym" width="100%">
+    </div>
+    <div class='paper-box-text'>
+        <!-- 你可以在这里加入对应论文的文字描述 -->
+        <p>Dr. Ye's research focuses on the development and application of multi-scale modeling methods and machine learning techniques...</p>
+    </div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div class="badge">PNAS. 2024</div>
+        <img src='images/22.png' alt="sym" width="100%">
+    </div>
+    <div class='paper-box-text'>
+        <!-- 你可以在这里加入对应论文的文字描述 -->
+        <p>His recent publication in PNAS explores...</p>
+    </div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div class="badge">J. Am. Chem. Soc. 2021</div>
+        <img src='images/33.png' alt="sym" width="100%">
+    </div>
+    <div class='paper-box-text'>
+        <!-- 你可以在这里加入对应论文的文字描述 -->
+        <p>This work demonstrates...</p>
+    </div>
+</div>
+
+<!-- 继续添加其他论文的条目 -->
+
+<div class='profile-summary'>
+    <p>Dr. Ye's research focuses on the development and application of multi-scale modeling methods and machine learning techniques to simulate charge kinetics in complex systems. His work covers a broad spectrum of applications in physics and chemistry, including biochemistry, photochemistry, molecular electronics, and photonics. Over the past five years, he has published 17 papers in prestigious journals such as PNAS, Natl Sci Rev, JACS, JACS Au, JPCL, and Energy & Environmental Science. Additionally, his research has been featured twice as an "Editor's Choice" in Science (Science, 2020, 370, 1178; Science, 2020, 368, 727).</p>
+</div>
 
 <span class='anchor' id='-lwzl'></span>
 
