@@ -23,6 +23,28 @@ Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Mate
   
 <span class='anchor' id='-xl'></span>
 
+# New Progress
+
+🎉 Our paper, "Unraveling dynamic protein structures by two-dimensional infrared spectra with a pretrained machine learning model" (S. Ye*, et al) has been accepted for publication in Proc. Natl. Acad. Sci. U.S.A. 2024, 121 (27), e2409257121.
+
+🎉 Our paper, "Artificial Intelligence-based Amide-II Infrared Spectroscopy Simulation for Monitoring Protein Hydrogen Bonding Dynamics" (S. Ye*, et al) has been accepted for publication in J. Am. Chem. Soc. 2024, 146 (4), 2663-2672.
+
+🎉 Our paper, "Machine Learning Prediction of Molecular Binding Profiles on Metal-Porphyrin via Spectroscopic Descriptors" (S. Ye*, et al) has been accepted for publication in J. Phys. Chem. Lett. 2024, 15 (7), 1956-1961.
+
+🎉 Our paper, "Catalytic Structure Design by AI Generating with Spectroscopic Descriptors" (S. Ye (co-first author), et al) has been accepted for publication in J. Am. Chem. Soc. 2023, 145 (49), 26817-26823.
+
+🎉 Our paper, "High-throughput oxygen chemical potential engineering of perovskite oxides for chemical looping applications" has been accepted for publication in Energy Environ. Sci. 2022, 15 (4), 1512-1528.
+
+🎉 Our paper, "AI-based spectroscopic monitoring of real-time interactions between SARS-CoV-2 and human ACE2" (S. Ye, ..., J. Jiang*) has been accepted for publication in Proc. Natl. Acad. Sci. U.S.A. 2021, 118 (26), e2025879118.
+
+🎉 Our paper, “A Machine Learning Protocol for Predicting Protein Infrared Spectra" (S. Ye, ..., J. Jiang*) has been accepted for publication in J. Am. Chem. Soc. 142 (2020) 19071-19077. 审稿人评价本工作 "It represents a significant advance in the field and offers a new framework to understand the protein structure and folding aided by artificial intelligence techniques", 并赞扬我们 "present an innovative approach that will be of value to a broad community of computational spectroscopists." 2020年12月，Science杂志编辑撰稿专文推荐我们发展的红外光谱机器学习预测方法（Science 2020, 370, 1178），指出“ Their trained model was able to provide fast and accurate characterization of IR spectra for different proteins under varying conditions."
+
+🎉 Our paper, “Electric Dipole Descriptor for Machine Learning Prediction of Catalyst Surface-Molecular Adsorbate Interactions" (X.J. Wang, S. Ye (co-first author), et al) has been accepted for publication in J. Am. Chem. Soc. 142 (2020) 7737-7743. 审稿人评价本工作 "The findings are novel and interesting, the simulations and neural network protocol are state-of-the-art", 并指出 "It could be very useful for the design and evaluation of new inhomogeneous catalysts." 该工作于2020-5-19日被国家自然科学基金委网站作为重要资助成果报道。2020年5月，Science杂志编辑撰稿专文推荐我们首创的电偶极矩相关描述符（Science 2020, 368, 727），指出 "The transferability of these models between different heterogeneous systems suggests that the electric dipole moment is a promising new type of catalytic descriptor."
+
+🎉 Our paper, "A neural network protocol for electronic excitations of N-methylacetamide" (S. Ye, ..., J. Jiang*) has been accepted for publication in Proc. Natl. Acad. Sci. U.S.A. 2019, 116 (24), 11612-11617.
+
+<span class='anchor' id='-xshy'></span>
+
 # Honor
 
 Dr. Ye has received numerous accolades, including the prestigious "100 Excellent Doctoral Dissertations of the Chinese Academy of Sciences (CAS)" award. He has been recognized as a Youth Talent of Anhui Province, an Outstanding Talent of Anhui Province, and a Leading Talent of Hefei City. In addition to his role as a professor, Dr. Ye serves as Deputy Director of the Anhui Provincial Engineering Research Center for Unmanned Systems and Intelligent Technology and as a strategic consultant for Anhui Province in the area of General Artificial Intelligence Throughout his career, Dr. Ye has been honored with multiple distinguished awards, such as the CAS Excellent Doctoral Dissertation Award, the CAS President's Award "Special Award," the Excellent Doctoral Dissertation Award from the Chinese Chemical Society’s Jingbo Technology Award, the Outstanding Doctoral Dissertation Award from the University of Science and Technology of China (USTC), the Outstanding Graduate Award from USTC, and the National Scholarship for Doctoral Students.
