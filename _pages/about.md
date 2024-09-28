@@ -59,7 +59,7 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div class="badge">JACS au, 2021; PNAS. 2019</div>
-        <img src='images/2.png' alt="sym" width="100%">
+        <img src='images/222.png' alt="sym" width="100%">
     </div>
     <div class='paper-box-text'>
         <!-- 你可以在这里加入对应论文的文字描述 -->
