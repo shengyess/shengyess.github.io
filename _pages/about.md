@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+auor_profile: true
 redirect_from: 
   - /about/
   - /about.html
@@ -24,8 +24,7 @@ Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Mate
 <span class='anchor' id='-xl'></span>
 
 # Research Profile
-<h1>Research Profile</h1>
-
+ji
 <div class='profile-summary'>
     <p>Dr. Ye's research centers on the development and application of multi-scale modeling methods and machine learning techniques to simulate charge kinetics in complex systems. He has systematically developed efficient and accurate methods for simulating protein infrared and electronic spectra, as well as inverse-design proteins based on spectrum-structure-activity relationships. Over the past five years, he has published 17 papers in prestigious journals such as <strong>PNAS</strong>, <strong>Natl Sci Rev</strong>, <strong>JACS</strong>, <strong>JACS Au</strong>, <strong>JPCL</strong>, and <strong>Energy & Environmental Science</strong>. Additionally, his research has been featured twice as an "Editor's Choice" in <strong>Science</strong> (Science, 2020, 370, 1178; Science, 2020, 368, 727).</p>
 </div>
@@ -110,9 +109,11 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 <span class='anchor' id='-xshy'></span>
 
 # Academic Conference
-- Sheng joined in the first symposium on theoretical and computational catalysis and gave a short talk, at Hefei. 
-- Sheng joined in the first symposium on theoretical and computational catalysis and gave a short talk, at Hefei. 
-- Sheng joined in the first symposium on theoretical and computational catalysis and gave a short talk, at Hefei. 
+
+- Sheng joined in the Shuangqing Forum of NSFC and gave a short talk, at Beijing. 
+- Sheng delivered an invited talk in the 15th National Conference on Theoretical and Computational Chemistry of the Chinese Chemical Society, at Changchun.
+- Sheng delivered an invited talk in the The 34th Annual Academic Conference of the Chinese Chemical Society: SElectronic structure theory and its applications, at Guangzhou.
+- Sheng delivered an invited talk in the The 33th Annual Academic Conference of the Chinese Chemical Society: SElectronic structure theory and its applications, at Qingdao.
 
 <span class='anchor' id='-gzsx'></span>
 
