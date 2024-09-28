@@ -14,6 +14,18 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
+    <!-- 导航栏，放置在页面顶部 -->
+    <div class="navbar">
+      <ul class="navbar__menu">
+        <li class="navbar__menu-item"><a href="#biography">Biography</a></li>
+        <li class="navbar__menu-item"><a href="#research-profile">Research Profile</a></li>
+        <li class="navbar__menu-item"><a href="#publications">Publications</a></li>
+        <li class="navbar__menu-item"><a href="#honor">Honor</a></li>
+        <li class="navbar__menu-item"><a href="#new-progress">New Progress</a></li>
+        <li class="navbar__menu-item"><a href="#academic-conference">Academic Conference</a></li>
+      </ul>
+    </div>
+
     <div id="main" role="main">
       {% include sidebar.html %}
     
@@ -29,54 +41,45 @@ layout: compress
 
     {% include scripts.html %}
 
-<div class="footer_site">
-<hr/>
-<div class="footer_copyright">
-  <a class="page_a"  href="https://github.com/RayeRen/acad-homepage.github.io">
-  acad
-  </a>&nbsp模板
-</div>
-</div>
+    <div class="footer_site">
+      <hr/>
+      <div class="footer_copyright">
+        <a class="page_a" href="https://github.com/RayeRen/acad-homepage.github.io">
+          acad
+        </a>&nbsp模板
+      </div>
+    </div>
+
+    <!-- 页面内容 -->
+    <section id="biography">
+      <h2>Biography</h2>
+      <p>Dr. Sheng Ye was born in Anhui, China, in 1994...</p>
+    </section>
+
+    <section id="research-profile">
+      <h2>Research Profile</h2>
+      <p>Dr. Sheng Ye's research interests focus on the development...</p>
+    </section>
+
+    <section id="publications">
+      <h2>Publications</h2>
+      <p>List of publications...</p>
+    </section>
+
+    <section id="honor">
+      <h2>Honor</h2>
+      <p>List of honors...</p>
+    </section>
+
+    <section id="new-progress">
+      <h2>New Progress</h2>
+      <p>🎉 Our paper, "Unraveling dynamic protein structures by two-dimensional infrared spectra...</p>
+    </section>
+
+    <section id="academic-conference">
+      <h2>Academic Conference</h2>
+      <p>Details of academic conferences...</p>
+    </section>
+  
   </body>
 </html>
-
-<div class="navbar">
-  <ul class="navbar__menu">
-    <li class="navbar__menu-item"><a href="#biography">Biography</a></li>
-    <li class="navbar__menu-item"><a href="#research-profile">Research Profile</a></li>
-    <li class="navbar__menu-item"><a href="#publications">Publications</a></li>
-    <li class="navbar__menu-item"><a href="#honor">Honor</a></li>
-    <li class="navbar__menu-item"><a href="#new-progress">New Progress</a></li>
-    <li class="navbar__menu-item"><a href="#academic-conference">Academic Conference</a></li>
-  </ul>
-</div>
-
-<section id="biography">
-  <h2>Biography</h2>
-  <p>Dr. Sheng Ye was born in Anhui, China, in 1994...</p>
-</section>
-
-<section id="research-profile">
-  <h2>Research Profile</h2>
-  <p>Dr. Sheng Ye's research interests focus on the development...</p>
-</section>
-
-<section id="publications">
-  <h2>Publications</h2>
-  <p>List of publications...</p>
-</section>
-
-<section id="honor">
-  <h2>Honor</h2>
-  <p>List of honors...</p>
-</section>
-
-<section id="new-progress">
-  <h2>New Progress</h2>
-  <p>🎉 Our paper, "Unraveling dynamic protein structures by two-dimensional infrared spectra...</p>
-</section>
-
-<section id="academic-conference">
-  <h2>Academic Conference</h2>
-  <p>Details of academic conferences...</p>
-</section>
