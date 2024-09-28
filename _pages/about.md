@@ -23,6 +23,12 @@ Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Mate
   
 <span class='anchor' id='-xl'></span>
 
+# Honor
+
+Dr. Ye has received numerous accolades, including the prestigious "100 Excellent Doctoral Dissertations of the Chinese Academy of Sciences (CAS)" award. He has been recognized as a Youth Talent of Anhui Province, an Outstanding Talent of Anhui Province, and a Leading Talent of Hefei City. In addition to his role as a professor, Dr. Ye serves as Deputy Director of the Anhui Provincial Engineering Research Center for Unmanned Systems and Intelligent Technology and as a strategic consultant for Anhui Province in the area of General Artificial Intelligence Throughout his career, Dr. Ye has been honored with multiple distinguished awards, such as the CAS Excellent Doctoral Dissertation Award, the CAS President's Award "Special Award," the Excellent Doctoral Dissertation Award from the Chinese Chemical Society’s Jingbo Technology Award, the Outstanding Doctoral Dissertation Award from the University of Science and Technology of China (USTC), the Outstanding Graduate Award from USTC, and the National Scholarship for Doctoral Students.
+
+<span class='anchor' id='-xshy'></span>
+
 # Research Profile
 
 <div class='profile-summary'>
@@ -101,12 +107,6 @@ Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Mate
 (1) Feng, C.; Sharman, E.; Ye, S.; Luo, Y.; Jiang, J., A neural network protocol for predicting molecular bond energy. *Sci. China Chem.* 2019, 62, 1698-1703.
 
 <span class='anchor' id='-ryjx'></span>
-
-# Honor
-
-Dr. Ye has received numerous accolades, including the prestigious "100 Excellent Doctoral Dissertations of the Chinese Academy of Sciences (CAS)" award. He has been recognized as a Youth Talent of Anhui Province, an Outstanding Talent of Anhui Province, and a Leading Talent of Hefei City. In addition to his role as a professor, Dr. Ye serves as Deputy Director of the Anhui Provincial Engineering Research Center for Unmanned Systems and Intelligent Technology and as a strategic consultant for Anhui Province in the area of General Artificial Intelligence Throughout his career, Dr. Ye has been honored with multiple distinguished awards, such as the CAS Excellent Doctoral Dissertation Award, the CAS President's Award "Special Award," the Excellent Doctoral Dissertation Award from the Chinese Chemical Society’s Jingbo Technology Award, the Outstanding Doctoral Dissertation Award from the University of Science and Technology of China (USTC), the Outstanding Graduate Award from USTC, and the National Scholarship for Doctoral Students.
-
-<span class='anchor' id='-xshy'></span>
 
 # Academic Conference
 
