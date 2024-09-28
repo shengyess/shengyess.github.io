@@ -48,6 +48,7 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
+    
 
     .paper-box-image{
         justify-content: center;
@@ -82,6 +83,8 @@
         }
 
     }
+
+
 }
 
 $scroll_offset : 2em;
@@ -141,22 +144,4 @@ h1:before, .anchor:before {
 
 .greedy-nav button {
   display: none;
-}
-
-/* 新增 New Progress 部分样式 */
-#new-progress {
-  font-size: 24px; /* 修改标题字体大小 */
-  color: #4CAF50;  /* 修改标题颜色为绿色 */
-  margin-top: 40px; /* 增加与上方内容的间距 */
-}
-
-#new-progress + p {
-  font-size: 18px;  /* 调整内容字体大小 */
-  color: #333;      /* 调整内容字体颜色 */
-  padding-left: 20px; /* 给内容增加左侧缩进 */
-  line-height: 1.6; /* 增加行间距 */
-}
-
-p::before {
-  content: "🎉 "; /* 为每个段落前添加 emoji */
 }
