@@ -158,47 +158,6 @@ h1:before, .anchor:before {
     list-style: none;  /* 移除列表的默认样式 */
     padding: 0;
     margin: 0;
-    display: inline-block;  /* 将导航项显示为水平排列 */
-}
-
-.navbar__menu-item {
-    display: inline;  /* 导航项水平排列 */
-    margin: 0 15px;  /* 导航项之间的间距 */
-}
-
-.navbar__menu-item a {
-    text-decoration: none;  /* 移除链接下划线 */
-    color: #333;  /* 设置链接文本颜色 */
-    font-weight: bold;  /* 加粗字体 */
-    font-size: 16px;  /* 设置字体大小 */
-    padding: 5px 10px;  /* 增加链接的内边距 */
-    transition: color 0.3s ease;  /* 添加悬停时颜色变化的动画 */
-}
-
-.navbar__menu-item a:hover {
-    color: #007bff;  /* 鼠标悬停时的颜色变化 */
-}
-
-/* 确保内容不会被固定导航栏遮挡 */
-body {
-    padding-top: 60px;  /* 调整内容的顶部内边距，避免被导航栏遮挡 */
-}
-
-.navbar {
-    background-color: #f8f8f8;  /* 设置背景颜色 */
-    border-bottom: 2px solid #eaeaea;  /* 增加底部边框 */
-    padding: 10px 0;  /* 导航栏上下内边距 */
-    text-align: center;  /* 居中对齐 */
-    position: fixed;  /* 使导航栏固定在页面顶部 */
-    width: 100%;
-    top: 0;
-    z-index: 1000;  /* 确保导航栏在所有元素之上 */
-}
-
-.navbar__menu {
-    list-style: none;  /* 移除列表的默认样式 */
-    padding: 0;
-    margin: 0;
     display: flex;  /* 使用 flex 布局确保菜单项不会换行 */
     justify-content: center;  /* 让菜单项居中排列 */
     flex-wrap: nowrap;  /* 不允许菜单项换行 */
@@ -226,4 +185,3 @@ body {
 body {
     padding-top: 60px;  /* 调整内容的顶部内边距，避免被导航栏遮挡 */
 }
-
