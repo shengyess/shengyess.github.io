@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dr. Sheng Ye"
+title                    : "Prof. Sheng Ye"
 description              : "Professor of Physical Chemistry"
 repository               : "https://shengyess.github.io/"
 google_scholar_stats_use_cdn : false
