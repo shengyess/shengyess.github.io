@@ -145,3 +145,33 @@ h1:before, .anchor:before {
 .greedy-nav button {
   display: none;
 }
+
+.navbar {
+  background-color: #f8f8f8;
+  padding: 10px;
+  text-align: center;
+}
+
+.navbar__menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar__menu-item {
+  margin: 0 15px;
+}
+
+.navbar__menu-item a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.navbar__menu-item a:hover {
+  color: #007bff;
+}
+
