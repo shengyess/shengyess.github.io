@@ -112,8 +112,8 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 
 - Sheng joined in the Shuangqing Forum of NSFC and gave a short talk, at Beijing. 
 - Sheng delivered an invited talk in the 15th National Conference on Theoretical and Computational Chemistry of the Chinese Chemical Society, at Changchun.
-- Sheng delivered an invited talk in the The 34th Annual Academic Conference of the Chinese Chemical Society: SElectronic structure theory and its applications, at Guangzhou.
-- Sheng delivered an invited talk in the The 33th Annual Academic Conference of the Chinese Chemical Society: SElectronic structure theory and its applications, at Qingdao.
+- Sheng delivered an invited talk in the The 34th Annual Academic Conference of the Chinese Chemical Society: Electronic structure theory and its applications, at Guangzhou.
+- Sheng delivered an invited talk in the The 33th Annual Academic Conference of the Chinese Chemical Society: Frontiers in Physical Chemistry, at Qingdao.
 
 <span class='anchor' id='-gzsx'></span>
 
