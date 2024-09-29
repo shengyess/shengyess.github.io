@@ -19,7 +19,7 @@ redirect_from:
 
 # Biography
 
-叶盛博士，现任安徽大学人工智能学院教授，安徽省无人系统与智能技术工程研究中心副主任，安徽省通用人工智能领域战略咨询专家。2021年获中国科学技术大学化学物理系博士学位（导师江俊教授），中科院百篇优博获得者，安徽省优青，安徽省省域拔尖人才，合肥市市级领军人才。先后获得过中国科学院优秀博士学位论文、中科院院长奖“特别奖”、中国化学会京博科技奖优秀博士论文奖、中国科学技术大学优秀博士毕业论文，中国科学技术大学优秀毕业生、博士研究生国家奖学金等荣誉奖励。作为项目负责人先后主持安徽省自然科学基金优青项目，国家自然科学基金青年项目，安徽省高校与合肥综合性国家科学中心协同创新项目。
+叶盛博士，现任安徽大学人工智能学院教授，安徽省优青，安徽省无人系统与智能技术工程研究中心副主任，安徽省通用人工智能领域战略咨询专家。2021年获中国科学技术大学化学物理系博士学位（导师江俊教授），中科院百篇优博获得者，安徽省省域拔尖人才，合肥市市级领军人才。先后获得过中国科学院优秀博士学位论文、中科院院长奖“特别奖”、中国化学会京博科技奖优秀博士论文奖、中国科学技术大学优秀博士毕业论文，中国科学技术大学优秀毕业生、博士研究生国家奖学金等荣誉奖励。作为项目负责人先后主持安徽省自然科学基金优青项目，国家自然科学基金青年项目，安徽省高校与合肥综合性国家科学中心协同创新项目。
 
 Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Materials Science and Engineering from Anhui University of Science and Technology in 2016 and earned his Ph.D. in Theoretical Chemistry under the supervision of Prof. Jun Jiang at the University of Science and Technology of China in 2021. Since then, he has served as a professor at the School of Artificial Intelligence at Anhui University, focusing on Theoretical, Physical, and Materials Chemistry, integrating Machine Learning into his research. In 2022, Sheng was recognized as an Excellent Young Scholar in Anhui Province.
   
