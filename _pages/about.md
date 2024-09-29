@@ -19,7 +19,9 @@ redirect_from:
 
 # Biography
 
-Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Materials Science and Engineering from Anhui University of Science and Technology in 2016 and earned his Ph.D. in Theoretical Chemistry under the supervision of Prof. Jun Jiang at the University of Science and Technology of China in 2021. Since then, he has served as a professor at the School of Artificial Intelligence at Anhui University, focusing on Theoretical, Physical, and Materials Chemistry, integrating Machine Learning into his research.
+叶盛博士，现任安徽大学人工智能学院教授，安徽省无人系统与智能技术工程研究中心副主任，安徽省通用人工智能领域战略咨询专家。2021年获中国科学技术大学化学物理系博士学位（导师江俊教授），中科院百篇优博获得者，安徽省优青，安徽省省域拔尖人才，合肥市市级领军人才。先后获得过中国科学院优秀博士学位论文、中科院院长奖“特别奖”、中国化学会京博科技奖优秀博士论文奖、中国科学技术大学优秀博士毕业论文，中国科学技术大学优秀毕业生、博士研究生国家奖学金等荣誉奖励。作为项目负责人先后主持安徽省自然科学基金优青项目，国家自然科学基金青年项目，安徽省高校与合肥综合性国家科学中心协同创新项目。
+
+Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Materials Science and Engineering from Anhui University of Science and Technology in 2016 and earned his Ph.D. in Theoretical Chemistry under the supervision of Prof. Jun Jiang at the University of Science and Technology of China in 2021. Since then, he has served as a professor at the School of Artificial Intelligence at Anhui University, focusing on Theoretical, Physical, and Materials Chemistry, integrating Machine Learning into his research. In 2022, Sheng was recognized as an Excellent Young Scholar in Anhui Province.
   
 <span class='anchor' id='-xl'></span>
 
@@ -31,6 +33,8 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 # Research Profile
 
 <div class='profile-summary'>
+  叶盛博士主要聚焦于人工智能在量子化学领域的交叉研究，研究在多个物理与化学应用领域（蛋白质逆向设计，分子逆向设计，分子光谱模拟、能源催化材料、谱学模拟）中的实际问题。近五年以第一作者或通讯作者在国际顶级期刊如<strong>PNAS</strong>, <strong>Natl Sci Rev</strong>, <strong>JACS</strong>, <strong>JACS Au</strong>, <strong>JPCL</strong>, and <strong>Energy & Environmental Science</strong> 等发表论文16篇，并且多项研究工作被国际顶级学术期刊<strong>Science</strong> (Science, 2020, 370, 1178; Science, 2020, 368, 727) 专文推荐点评，研究成果受到了国际上的广泛认可。
+  
     <p>Dr. Ye's research centers on the development and application of multi-scale modeling methods and machine learning techniques to simulate charge kinetics in complex systems. He has systematically developed efficient and accurate methods for simulating protein infrared and electronic spectra, as well as inverse-design proteins based on spectrum-structure-activity relationships. Over the past five years, he has published 17 papers in prestigious journals such as <strong>PNAS</strong>, <strong>Natl Sci Rev</strong>, <strong>JACS</strong>, <strong>JACS Au</strong>, <strong>JPCL</strong>, and <strong>Energy & Environmental Science</strong>. Additionally, his research has been featured twice as an "Editor's Choice" in <strong>Science</strong> (Science, 2020, 370, 1178; Science, 2020, 368, 727).</p>
 </div>
 
