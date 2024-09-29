@@ -34,7 +34,8 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 
 <div class='profile-summary'>
   叶盛博士主要聚焦于人工智能在量子化学领域的交叉研究，研究在多个物理与化学应用领域（蛋白质逆向设计，分子逆向设计，分子光谱模拟、能源催化材料、谱学模拟）中的实际问题。近五年以第一作者或通讯作者在国际顶级期刊如<strong>PNAS</strong>, <strong>Natl Sci Rev</strong>, <strong>JACS</strong>, <strong>JACS Au</strong>, <strong>JPCL</strong>, and <strong>Energy & Environmental Science</strong> 等发表论文16篇，并且多项研究工作被国际顶级学术期刊<strong>Science</strong> (Science, 2020, 370, 1178; Science, 2020, 368, 727) 专文推荐点评，研究成果受到了国际上的广泛认可。
-  
+
+
     <p>Dr. Ye's research centers on the development and application of multi-scale modeling methods and machine learning techniques to simulate charge kinetics in complex systems. He has systematically developed efficient and accurate methods for simulating protein infrared and electronic spectra, as well as inverse-design proteins based on spectrum-structure-activity relationships. Over the past five years, he has published 17 papers in prestigious journals such as <strong>PNAS</strong>, <strong>Natl Sci Rev</strong>, <strong>JACS</strong>, <strong>JACS Au</strong>, <strong>JPCL</strong>, and <strong>Energy & Environmental Science</strong>. Additionally, his research has been featured twice as an "Editor's Choice" in <strong>Science</strong> (Science, 2020, 370, 1178; Science, 2020, 368, 727).</p>
 </div>
 
