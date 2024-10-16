@@ -79,6 +79,8 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 
 # New Progress
 
+🎉 Our paper, "Monitoring C-C coupling in catalytic reactions via machine-learned infrared spectroscopy" (S. Ye*, et al) has been accepted for publication in National Science Review!
+
 🎉 Our paper, "Unraveling dynamic protein structures by two-dimensional infrared spectra with a pretrained machine learning model" (S. Ye*, et al) has been accepted for publication in Proc. Natl. Acad. Sci. U.S.A. 2024, 121 (27), e2409257121.
 
 🎉 Our paper, "Artificial Intelligence-based Amide-II Infrared Spectroscopy Simulation for Monitoring Protein Hydrogen Bonding Dynamics" (S. Ye*, et al) has been accepted for publication in J. Am. Chem. Soc. 2024, 146 (4), 2663-2672.
