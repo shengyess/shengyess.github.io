@@ -104,6 +104,8 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 # Publications
 ---
 
+(17) Li Yang, Zhicheng Zhao, Tongtong Yang4, Donglai Zhou, Xiaoyu Yue, Xiyu Li, Yan Huang, X. Wang, Ruyun Zheng, Thomas Heine*, Changyin Sun*, Jun Jiang,* and **Ye, S**.* (Corresponding Author)*; Monitoring C-C coupling in catalytic reactions via machine-learned infrared spectroscopy. ***Natl Sci Rev*** 2024, in press. 
+
 (16) **Ye, S** * (First author and corresponding author).; Zhong, K.; Huang, Y.; Zhang, G.; Sun, C.; Jiang, J., Artificial Intelligence-based Amide-II Infrared Spectroscopy Simulation for Monitoring Protein Hydrogen Bonding Dynamics. ***J. Am. Chem. Soc.*** 2024, 146 (4), 2663-2672.
 
 (15) Wu, F.; Huang, Y.; Yang, G.; **Ye, S**.* (Corresponding Author); Mukamel, S.; Jiang, J., Unraveling dynamic protein structures by two-dimensional infrared spectra with a pretrained machine learning model. ***Proc. Natl. Acad. Sci. U.S.A.*** 2024, 121 (27), e2409257121.
