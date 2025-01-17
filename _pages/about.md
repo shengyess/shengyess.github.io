@@ -79,6 +79,8 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 
 # New Progress
 
+🎉 Our paper, "AI Protocol for Retrieving Protein Dynamic Structures from Two-Dimensional Infrared Spectra" (S. Ye*, et al) has been accepted for publication in Proc. Natl. Acad. Sci. U.S.A. 2025!
+
 🎉 Sheng was selected as a youth editorial board member of the journal VIEW (JCR 一区, IF:9.7)!
 
 🎉 Our paper, "Monitoring C-C coupling in catalytic reactions via machine-learned infrared spectroscopy" (S. Ye*, et al) has been accepted for publication in National Science Review!
@@ -105,6 +107,7 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 
 # Publications
 ---
+(18)  **Ye, S**, et al, AI Protocol for Retrieving Protein Dynamic Structures from Two-Dimensional Infrared Spectra. ***Proc. Natl. Acad. Sci. U.S.A.***, 2025, in press.
 
 (17) Li Yang, Zhicheng Zhao, Tongtong Yang, Donglai Zhou, Xiaoyu Yue, Xiyu Li, Yan Huang, X. Wang, Ruyun Zheng, Thomas Heine*, Changyin Sun*, Jun Jiang,* and **Ye, S**.* (Corresponding Author). Monitoring C-C coupling in catalytic reactions via machine-learned infrared spectroscopy. ***Natl Sci Rev***, 2025, 12: nwae389.
 
