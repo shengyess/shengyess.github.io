@@ -107,7 +107,7 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 
 # Publications
 ---
-(18)  **Ye, S**, et al, AI Protocol for Retrieving Protein Dynamic Structures from Two-Dimensional Infrared Spectra. ***Proc. Natl. Acad. Sci. U.S.A.***, 2025, in press.
+(18)  **Ye, S**, L. Zhu, Z. Zhao, F. Wu, Z. Li, B. Wang, K. Zhong, C. Sun, S. Mukamel & J. Jiang. AI Protocol for Retrieving Protein Dynamic Structures from Two-Dimensional Infrared Spectra. ***Proc. Natl. Acad. Sci. U.S.A.***, 2025, 122 (7) e2424078122.
 
 (17) Li Yang, Zhicheng Zhao, Tongtong Yang, Donglai Zhou, Xiaoyu Yue, Xiyu Li, Yan Huang, X. Wang, Ruyun Zheng, Thomas Heine*, Changyin Sun*, Jun Jiang,* and **Ye, S**.* (Corresponding Author). Monitoring C-C coupling in catalytic reactions via machine-learned infrared spectroscopy. ***Natl Sci Rev***, 2025, 12: nwae389.
 
