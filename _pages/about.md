@@ -19,7 +19,7 @@ redirect_from:
 
 # Biography
 
-叶盛博士，现任安徽大学人工智能学院教授，安徽省优青，安徽省无人系统与智能技术工程研究中心副主任，安徽省通用人工智能领域战略咨询专家，VIEW期刊青年编委。2021年获中国科学技术大学化学物理系博士学位（导师江俊教授），中科院百篇优博获得者，安徽省省域拔尖人才，合肥市市级领军人才。先后获得过中国科学院优秀博士学位论文、中科院院长奖“特别奖”、中国化学会京博科技奖优秀博士论文奖、中国科学技术大学优秀博士毕业论文，中国科学技术大学优秀毕业生、博士研究生国家奖学金等荣誉奖励。作为项目负责人先后主持安徽省自然科学基金优青项目，国家自然科学基金青年项目，安徽省高校与合肥综合性国家科学中心协同创新项目。
+叶盛博士，现任安徽大学人工智能学院教授，安徽省优青，安徽省无人系统与智能技术工程研究中心副主任，安徽省通用人工智能领域战略咨询专家，VIEW期刊青年编委。2021年获中国科学技术大学化学物理系博士学位（导师江俊教授），中科院百篇优博获得者，安徽省省域拔尖人才，合肥市市级领军人才。先后获得过中国科学院优秀博士学位论文、中科院院长奖“特别奖”、中国化学会京博科技奖优秀博士论文奖、中国科学技术大学优秀博士毕业论文，中国科学技术大学优秀毕业生、博士研究生国家奖学金等荣誉奖励。作为项目负责人先后主持安徽省自然科学基金优青项目，国家自然科学基金面上、青年项目，安徽省高校与合肥综合性国家科学中心协同创新项目。
 
 Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Materials Science and Engineering from Anhui University of Science and Technology in 2016 and earned his Ph.D. in Theoretical Chemistry under the supervision of Prof. Jun Jiang at the University of Science and Technology of China in 2021. Since then, he has served as a professor at the School of Artificial Intelligence at Anhui University, focusing on Theoretical Chemistry, integrating Machine Learning into his research. In 2022, Sheng was recognized as an Excellent Young Scholar in Anhui Province. He also serves as a strategic consultant in the field of general artificial intelligence for Anhui Province and is a youth editorial board member of the journal VIEW.
   
@@ -33,7 +33,7 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 
 # Research Profile
 
-  叶盛博士的研究主要聚焦于人工智能与量子化学的交叉领域，致力于解决蛋白质逆向设计、分子逆向设计、分子光谱模拟和能源催化材料等多个物理与化学应用中的实际问题。系统性地发展了结合量子化学与人工智能的蛋白质光谱模拟方法，并提出了基于物理驱动的谱-构-效关系的蛋白质高通量从头设计方法。近五年以第一作者或通讯作者在国际顶级期刊如<strong>PNAS</strong>, <strong>Natl Sci Rev</strong>, <strong>JACS</strong>, <strong>JACS Au</strong>, <strong>JPCL</strong>, and <strong>Energy & Environmental Science</strong> 等发表论文17篇，并且多项研究工作被国际顶级学术期刊<strong>Science</strong> (Science, 2020, 370, 1178; Science, 2020, 368, 727) 专文推荐点评，研究成果受到了国际上的广泛认可。所开发的蛋白质光谱人工智能模拟软件目前已在中国科学技术大学、南京大学、南欣医药研究院公司、美国加州大学尔湾分校、英国诺丁汉大学、英国杜伦大学、意大利INFN国家实验室等十几家单位应用。
+  叶盛博士的研究主要聚焦人工智能与量子化学的前沿交叉研究，立足物理化学基本规律，结合机器学习与多尺度理论方法，面向功能分子、复合材料以及生物体系中的蛋白与药物，开展构效关系解析与逆向从头设计研究，揭示复杂体系的微观机制与协同原理。系统性地发展了结合量子化学与人工智能的蛋白质光谱模拟方法，以及基于物理“谱-构-效”关系的多功能蛋白质从头设计方法。近五年以第一作者或通讯作者在国际知名期刊如<strong>PNAS</strong>, <strong>Natl Sci Rev</strong>, <strong>JACS</strong>, <strong>JACS Au</strong>, <strong>JPCL</strong>, and <strong>Energy & Environmental Science</strong> 等发表论文二十余篇，并且多项研究工作被国际顶级学术期刊<strong>Science</strong> (Science, 2020, 370, 1178; Science, 2020, 368, 727) 专文推荐点评，研究成果受到了国际上的广泛认可。所开发的蛋白质光谱人工智能模拟软件目前已在中国科学技术大学、南京大学、南欣医药研究院公司、美国加州大学尔湾分校、英国诺丁汉大学、英国杜伦大学、意大利INFN国家实验室等十几家单位应用。
 
 <div class='profile-summary'>
   
@@ -78,6 +78,9 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 <span class='anchor' id='-lwzl'></span>
 
 # New Progress
+🎉 Our paper, "A Machine Learning Protocol for Predicting Structural Distributions of Amyloid-Forming Proteins from 2D IR Spectra" (S. Ye*, et al) has been accepted for publication in Proc. Natl. Acad. Sci. U.S.A. 2025!
+
+🎉 Our review paper, "人工智能驱动的蛋白质结构预测进展与应用前景" (S. Ye*, et al) has been accepted for publication in JOURNAL OF BIOLOGY 2025!
 
 🎉 Our paper, "AI Protocol for Retrieving Protein Dynamic Structures from Two-Dimensional Infrared Spectra" (S. Ye*, et al) has been accepted for publication in Proc. Natl. Acad. Sci. U.S.A. 2025!
 
@@ -107,6 +110,8 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 
 # Publications
 ---
+(19)  **Ye, S**, et al, A Machine Learning Protocol for Predicting Structural Distributions of Amyloid-Forming Proteins from 2D IR Spectra ***Proc. Natl. Acad. Sci. U.S.A.***, 2025, in press.
+
 (18)  **Ye, S**, L. Zhu, Z. Zhao, F. Wu, Z. Li, B. Wang, K. Zhong, C. Sun, S. Mukamel & J. Jiang. AI Protocol for Retrieving Protein Dynamic Structures from Two-Dimensional Infrared Spectra. ***Proc. Natl. Acad. Sci. U.S.A.***, 2025, 122 (7) e2424078122.
 
 (17) Li Yang, Zhicheng Zhao, Tongtong Yang, Donglai Zhou, Xiaoyu Yue, Xiyu Li, Yan Huang, X. Wang, Ruyun Zheng, Thomas Heine*, Changyin Sun*, Jun Jiang,* and **Ye, S**.* (Corresponding Author). Monitoring C-C coupling in catalytic reactions via machine-learned infrared spectroscopy. ***Natl Sci Rev***, 2025, 12: nwae389.
@@ -153,4 +158,5 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 - Sheng delivered an invited talk in the The 33th Annual Academic Conference of the Chinese Chemical Society: Frontiers in Physical Chemistry, at Qingdao.
 
 <span class='anchor' id='-gzsx'></span>
+
 
