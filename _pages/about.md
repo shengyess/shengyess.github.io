@@ -19,7 +19,7 @@ redirect_from:
 
 # Biography
 
-叶盛博士，现任安徽大学人工智能学院教授，安徽省优青，安徽省无人系统与智能技术工程研究中心副主任，安徽省通用人工智能领域战略咨询专家，VIEW期刊青年编委。2021年获中国科学技术大学化学物理系博士学位（导师江俊教授），中科院百篇优博获得者，安徽省省域拔尖人才，合肥市市级领军人才。先后获得过中国科学院优秀博士学位论文、中科院院长奖“特别奖”、中国化学会京博科技奖优秀博士论文奖、中国科学技术大学优秀博士毕业论文，中国科学技术大学优秀毕业生、博士研究生国家奖学金等荣誉奖励。作为项目负责人先后主持安徽省自然科学基金优青项目，国家自然科学基金面上、青年项目，安徽省高校与合肥综合性国家科学中心协同创新项目。
+叶盛博士，现任安徽大学人工智能学院教授，安徽省优青，安徽省无人系统与智能技术工程研究中心副主任，安徽省通用人工智能领域战略咨询专家。2021年获中国科学技术大学化学物理系博士学位（导师江俊教授），中科院百篇优博获得者，安徽省省域拔尖人才，合肥市市级领军人才。先后获得过中国科学院优秀博士学位论文、中科院院长奖“特别奖”、中国化学会京博科技奖优秀博士论文奖、中国科学技术大学优秀博士毕业论文，中国科学技术大学优秀毕业生、博士研究生国家奖学金等荣誉奖励。作为项目负责人先后主持国家自然科学基金面上、青年项目，安徽省自然科学基金优青项目，安徽省高校与合肥综合性国家科学中心协同创新项目。
 
 Dr. Sheng Ye was born in Anhui, China, in 1994, received his B.S. degree in Materials Science and Engineering from Anhui University of Science and Technology in 2016 and earned his Ph.D. in Theoretical Chemistry under the supervision of Prof. Jun Jiang at the University of Science and Technology of China in 2021. Since then, he has served as a professor at the School of Artificial Intelligence at Anhui University, focusing on Theoretical Chemistry, integrating Machine Learning into his research. In 2022, Sheng was recognized as an Excellent Young Scholar in Anhui Province. He also serves as a strategic consultant in the field of general artificial intelligence for Anhui Province and is a youth editorial board member of the journal VIEW.
   
@@ -78,6 +78,8 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 <span class='anchor' id='-lwzl'></span>
 
 # New Progress
+🎉 Our paper, "Deep learning of protein structure and physicochemical properties from two-dimensional infrared spectra" (S. Ye*, et al) has been accepted for publication in J. Phys. Chem. Lett. 2026!
+
 🎉 Our paper, "A Machine Learning Protocol for Predicting Structural Distributions of Amyloid-Forming Proteins from 2D IR Spectra" (S. Ye*, et al) has been accepted for publication in Proc. Natl. Acad. Sci. U.S.A. 2025!
 
 🎉 Our review paper, "人工智能驱动的蛋白质结构预测进展与应用前景" (S. Ye*, et al) has been accepted for publication in JOURNAL OF BIOLOGY 2025!
@@ -110,7 +112,9 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 
 # Publications
 ---
-(19)  **Ye, S**, et al, A Machine Learning Protocol for Predicting Structural Distributions of Amyloid-Forming Proteins from 2D IR Spectra ***Proc. Natl. Acad. Sci. U.S.A.***, 2025, in press.
+(20)  **Ye, S**, et al, "Deep learning of protein structure and physicochemical properties from two-dimensional infrared spectra ***J. Phys. Chem. Lett.***, 2026, in press.
+
+(19)  **Ye, S**, et al, A Machine Learning Protocol for Predicting Structural Distributions of Amyloid-Forming Proteins from 2D IR Spectra ***Proc. Natl. Acad. Sci. U.S.A.***, 2025, 122 (48) e2522772122.
 
 (18)  **Ye, S**, L. Zhu, Z. Zhao, F. Wu, Z. Li, B. Wang, K. Zhong, C. Sun, S. Mukamel & J. Jiang. AI Protocol for Retrieving Protein Dynamic Structures from Two-Dimensional Infrared Spectra. ***Proc. Natl. Acad. Sci. U.S.A.***, 2025, 122 (7) e2424078122.
 
@@ -152,6 +156,7 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 
 # Academic Conference
 
+- Sheng delivered an invited talk in the The 35th Annual Academic Conference of the Chinese Chemical Society: Nonlinear spectroscopy, at Chongqing. 
 - Sheng joined in the Shuangqing Forum of NSFC and gave a short talk, at Beijing. 
 - Sheng delivered an invited talk in the 15th National Conference on Theoretical and Computational Chemistry of the Chinese Chemical Society, at Changchun.
 - Sheng delivered an invited talk in the The 34th Annual Academic Conference of the Chinese Chemical Society: Electronic structure theory and its applications, at Guangzhou.
