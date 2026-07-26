@@ -156,6 +156,7 @@ Dr. Ye has received numerous accolades, including the prestigious "100 Excellent
 
 # Academic Conference
 
+- Sheng delivered an invited talk in the The World Artificial Intelligence Conference (WAIC) 2026,at ShangHai.
 - Sheng delivered an invited talk in the The 35th Annual Academic Conference of the Chinese Chemical Society: Nonlinear spectroscopy, at Chongqing. 
 - Sheng joined in the Shuangqing Forum of NSFC and gave a short talk, at Beijing. 
 - Sheng delivered an invited talk in the 15th National Conference on Theoretical and Computational Chemistry of the Chinese Chemical Society, at Changchun.
